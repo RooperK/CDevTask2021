@@ -1,0 +1,5 @@
+# Project exclude paths
+/cmake-build-debug-min-gw/
+/cmake-build-debug-visual-studio/
+/cmake-build-release-min-gw/
+/cmake-build-release-visual-studio/
